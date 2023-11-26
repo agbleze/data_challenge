@@ -5,3 +5,7 @@ this data challenge is on develop branch
 
 
 how to install
+
+
+# Install with docker
+
