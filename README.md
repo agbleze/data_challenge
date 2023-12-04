@@ -12,5 +12,7 @@ you need to first install the requirements in the requirements.txt
 # Install with docker
 
 
+## How to run the app
+
 
 # How to use package 
