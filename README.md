@@ -4,7 +4,7 @@
 this data challenge is on develop branch
 
 
-how to install
+# how to install
 
 you need to first install the requirements in the requirements.txt
 
