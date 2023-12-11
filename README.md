@@ -1,7 +1,7 @@
 # data_challenge
 
 ## Introduction
-this data challenge is on develop branch
+this data challenge is on develop branch. 
 
 
 # how to install
@@ -21,3 +21,5 @@ run the docket file as ff
 
 
 # how to contribute 
+
+You can contribute by opening a pull request 
