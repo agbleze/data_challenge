@@ -8,7 +8,7 @@ this data challenge is on develop branch.
 
 you need to first install the requirements in the requirements.txt
 
-
+```pip3 install -r requirement.txt```
 # Install with docker
 run the docket file as ff
 ```docker build ```
