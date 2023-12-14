@@ -6,7 +6,7 @@ this data challenge is on develop branch.
 
 # how to install
 
-you need to first install the requirements in the requirements.txt
+you need to first install the dependencies in the requirements.txt
 
 ```pip3 install -r requirement.txt```
 # Install with docker
