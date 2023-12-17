@@ -19,6 +19,8 @@ run the docket file as ff
 
 # How to use package 
 
+The package can be run from the terminal or used in a python script
+
 
 # how to contribute 
 
