@@ -25,3 +25,8 @@ The package can be run from the terminal or used in a python script
 # how to contribute 
 
 You can contribute by opening a pull request 
+
+
+# License type
+
+
